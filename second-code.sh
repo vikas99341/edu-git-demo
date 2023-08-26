@@ -1,7 +1,9 @@
 #!/bin/bash
 
-a=5
-b=77
+a=23
+b=27
+c=5554
+d=7775
 
-sum=a+b
+sum=a+b+c+d
 echo sum 
